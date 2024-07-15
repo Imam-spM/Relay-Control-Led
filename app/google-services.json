@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1017676371583",
+    "firebase_url": "https://smart-parkir-1e78f-default-rtdb.firebaseio.com",
+    "project_id": "smart-parkir-1e78f",
+    "storage_bucket": "smart-parkir-1e78f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017676371583:android:4cd7ce0b6d6fc74665914a",
+        "android_client_info": {
+          "package_name": "com.imam.app_crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcTIfypep92sL0Q7pEhS1i5E9WC482dr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
